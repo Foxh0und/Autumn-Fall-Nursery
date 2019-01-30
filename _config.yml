@@ -78,8 +78,8 @@ lang: en-GB # Set the site language
 title: "Autumn Fall Nursery" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "foxh0und.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+url: "https://foxh0und.github.io/Autumn-Fall-Nursery/" # Site url, also used in jekyll-seo-tag
+baseurl: "https://foxh0und.github.io/Autumn-Fall-Nursery/"
 repo: "https://github.com/daviddarnes/alembic"
 email: "simon@autumnfall.com.au"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
