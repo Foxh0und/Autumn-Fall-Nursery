@@ -76,9 +76,9 @@ lang: en-GB # Set the site language
 title: "Autumn Fall Nursery" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Autumn Fall Nursery is a nursery for all your gardening needs in Monbulk" # Site description and default description, also used in jekyll-seo-tag
-url: "https://foxh0und.github.io/Autumn-Fall-Nursery/" # Site url, also used in jekyll-seo-tag
+url: "https://autumnfall.com.au/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
+repo: "https://github.com/Foxh0und/Autumn-Fall-Nursery"
 email: "simon@autumnfall.com.au"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
@@ -90,8 +90,6 @@ navigation_header:
 navigation_footer:
   
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#0d94e7"
