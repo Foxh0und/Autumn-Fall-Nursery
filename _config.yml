@@ -79,6 +79,7 @@ description: "Autumn Fall Nursery is a nursery for all your gardening needs in M
 url: "https://autumnfall.com.au/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/Foxh0und/Autumn-Fall-Nursery"
+avatarurl: "/assets/logo.svg"
 email: "simon@autumnfall.com.au"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
@@ -87,6 +88,7 @@ navigation_header:
   Home: /
   Plants: /plants/
   About Us: /about/
+  Contact Us: /contact/
 navigation_footer:
   
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
