@@ -2,7 +2,7 @@
 title: Plants
 feature_image: "/assets/img/home.jpg"
 ---
-## Taking pre-orders for 2021/2022 now’
+## Taking pre-orders for 2021/2022 now
 
 ##### Ornamental Pears 8" Pots
 
